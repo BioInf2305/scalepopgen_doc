@@ -13,7 +13,8 @@ Welcome to scalepopgen_documentation's documentation!
    readme
 
 
-Indices and tables
+Links
 ==================
 
 * :ref:`search`
+* Source code:https://github.com/Popgen48/scalepopgen.git
