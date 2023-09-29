@@ -16,6 +16,4 @@ Welcome to scalepopgen_documentation's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
